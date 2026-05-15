@@ -10,7 +10,7 @@ Starting college, I realized that what genuinely excited me most was building an
 
 | Project | What it is | Tech |
 |---|---|---|
-| [](link) | null | Null |
+| [ResolveAI](https://github.com/sgogula727/ResolveAI) | Agentic AI customer support platform that autonomously classifies, retrieves, resolves, and escalates support tickets using RAG, tool-calling workflows, and real-time analytics. | Python, FastAPI, LangChain, Mistral/OpenAI, PostgreSQL, pgvector, Next.js |
 | [](link) | null | null |
 | [](link) | Null | Null |
 | [Research Project](https://github.com/sgogula727/AI4DR-AI-Use-for-Disaster-Response) | ML system that classifies disaster-related social media posts to support real-time emergency response using traditional, deep learning, and embedding-based approaches. | Python, scikit-learn, TensorFlow, PyTorch |
